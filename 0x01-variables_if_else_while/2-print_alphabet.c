@@ -20,5 +20,6 @@ int main(void){
                 }
                 co++;
                 putchar('\n');
-        }
+	}
+return (0);
 }
